@@ -1,0 +1,8 @@
+nome = input('Digita o nome cumpadi: ')
+print('Tudo maiuscula: {}'.format(nome.upper()))
+print('Tudo minuscula: {}'.format(nome.lower()))
+sem_espaco = str(nome.replace(" ", ""))
+print('Caracteres ignorando espaços: {}'.format(len(sem_espaco)))
+nome_lista = nome.split()
+qnt_primeiro_nome = len(nome_lista [0])
+print('O primeiro nome tem {} caracteres' .format(qnt_primeiro_nome))
