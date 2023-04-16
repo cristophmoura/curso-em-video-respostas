@@ -12,3 +12,4 @@ def aumentar(n, p=0):
 
 def diminuir(n, p=0):
     return n * (1 - (p / 100))
+

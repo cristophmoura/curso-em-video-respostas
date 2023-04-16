@@ -32,3 +32,4 @@ def diminuir(n, p=0, s=False):
 
 def moeda(a):
     return 'R${:.2f}'.format(a)
+
