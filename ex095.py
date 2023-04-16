@@ -48,9 +48,3 @@ for i, v in enumerate(jogadores):
     if i == dados:
         for i, v in enumerate(jogadores[dados]["gols"]):
             print(f'Na partida {i} fez {v} gols')
-
-
-
-
-
-
