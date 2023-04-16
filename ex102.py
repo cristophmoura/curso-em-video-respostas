@@ -18,7 +18,6 @@ def fat(n, show):
         print(f'= {fatorial}')
 
 
-
 # fat(int(input('Digita um número ae: ')))
 num = int(input('Digita um número ae: '))
 fat(num, True)

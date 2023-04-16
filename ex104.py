@@ -12,3 +12,4 @@ def leiaInt(n):
 
 n = leiaInt('Digite um numero inteiro: ')
 print(f'Você digitou o número {n}')
+
