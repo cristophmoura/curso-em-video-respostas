@@ -3,3 +3,4 @@ if ano % 4 == 0 and ano % 100 > 0 or ano % 4 == 0 and ano % 100 == 0 and ano % 4
     print('É bisexto')
 else:
     print('Não é bixesto não')
+

@@ -5,3 +5,4 @@ if sal >= 1250:
 else:
     novo_sal = sal*1.15
     print('Vai começar a pingar R${:.2f}' .format(novo_sal))
+

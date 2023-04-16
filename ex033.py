@@ -15,3 +15,4 @@ else:
         print('O segundo número é o menor {}' .format(n2))
     else:
         print('O terceiro número é o menor {}' .format(n3))
+
