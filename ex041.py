@@ -16,3 +16,4 @@ elif year - ano > 20:
     print('Master')
 else:
     print('Não entendi')
+

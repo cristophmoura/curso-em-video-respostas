@@ -18,3 +18,4 @@ elif condi == 4:
     print('3x ou mais no cartão fica R${}' .format(quatro))
 else:
     print('É de 1 a 4 parcero')
+

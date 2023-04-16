@@ -8,3 +8,4 @@ if mensal <= sal*0.30:
 else:
     print('Vai dar não. A prestação mensal é {} e tá acima de 30% do teu salário de {} :/' .format(mensal, sal))
 
+

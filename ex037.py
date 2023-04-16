@@ -8,3 +8,4 @@ elif base == 3:
     print('{} em hexadecimal é: {}'.format(n1, hex(n1)))
 else:
     print('É de 1 a 3 sua anta')
+

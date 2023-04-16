@@ -8,3 +8,4 @@ elif media >= 5 and media <= 6.9:
     print('Recuperação')
 else:
     print('Aprovado')
+

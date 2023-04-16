@@ -28,3 +28,4 @@ elif jogador_escolha == "tesoura":
         print("Empate!")
 else:
     print("Escolha inválida.")
+

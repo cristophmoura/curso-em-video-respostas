@@ -14,3 +14,4 @@ elif year - ano < 17:
 else:
     print('Tá veio já meu parcero, já passaram {} anos do alistamento' .format(pos))
 
+
