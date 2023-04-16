@@ -21,3 +21,4 @@ def leiaDinheiro(msg):
         else:
             print(f'ERRO! "{a}" é um preço inválido!')
             a = input('Digite o preço: R$')
+
