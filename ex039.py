@@ -13,3 +13,4 @@ elif year - ano < 17:
     print('Te livrou, ainda faltam {} anos p se alistar' .format(restante))
 else:
     print('Tá veio já meu parcero, já passaram {} anos do alistamento' .format(pos))
+
