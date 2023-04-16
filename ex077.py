@@ -11,7 +11,6 @@ for p in palavras:
 
 
 
-
 """" 
    for palavra in tupla:
     print(f'Na palavra {palavra} temos: ',end='')

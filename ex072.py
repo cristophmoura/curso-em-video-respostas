@@ -8,3 +8,4 @@ while continua == True:
         break
     else:
         n1 = int(input('Tem que ser entre 0 e 20: '))
+

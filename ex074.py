@@ -11,3 +11,4 @@ for numero in numeros_aleatorios:
     cont += 1
 print(maior, menor)
 print(f'Os números foram:',numeros_aleatorios)
+
