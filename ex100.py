@@ -21,5 +21,3 @@ def soma(a):
 
 sorteio()
 soma(valores)
-
-
