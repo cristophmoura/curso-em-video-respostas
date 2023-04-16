@@ -16,7 +16,6 @@ else:
 print(car)
 
 
-
 """"
 Essa lista retorna como correto uma expressão inválida como por ex:  )2+2(
 
