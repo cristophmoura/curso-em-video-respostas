@@ -26,4 +26,3 @@ for c in range (0,3):
 print(f'A soma de todos pares é {pares}')
 print(f'A soma da terceira coluna é {res}')
 print(f'O maior valor da segunda linha é {maiorLinha}')
-
