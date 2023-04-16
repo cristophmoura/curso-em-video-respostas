@@ -19,3 +19,4 @@ print(f'O total gasto foi: R${total}')
 print(f'{contProduto} produtos custam mais que R$1000')
 print(f'{produtoMaisBarato} é o produto mais barato')
 
+

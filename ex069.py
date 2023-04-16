@@ -16,3 +16,4 @@ while continuar == 'S':
 print(f'{contIdade} pessoas tem mais de 18 anos')
 print(f'{contM} homens foram cadastrados')
 print(f'{contF} mulheres tem menos de 20 anos')
+
