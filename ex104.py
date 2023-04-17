@@ -1,4 +1,4 @@
-def leiaInt(n):
+def leiaInt():
     n = input('Digite um numero inteiro: ')
     while True:
         if n.isnumeric():
@@ -10,6 +10,6 @@ def leiaInt(n):
             print('ERRO!')
             n = input('Digite um numero inteiro: ')
 
-n = leiaInt('Digite um numero inteiro: ')
-print(f'Você digitou o número {n}')
+
+print(f'Você digitou o número {leiaInt()}')
 
